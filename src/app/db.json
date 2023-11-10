@@ -1,0 +1,64 @@
+{
+  "enquiry": [
+    {
+      "firstName": "renat",
+      "lastName": "Sagyngaliev",
+      "email": "riko321@gmail.com",
+      "mobile": "87845788",
+      "weight": "5900",
+      "height": "170",
+      "bmi": 0.000588235294117647,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quaterly",
+      "enquiryDate": "",
+      "id": 1
+    },
+    {
+      "firstName": "q",
+      "lastName": "dqwd",
+      "email": "2",
+      "mobile": "qq",
+      "weight": "85",
+      "height": "900",
+      "bmi": 0.00011111111111111112,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "enquiryDate": "2023-07-12T23:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "weight": "",
+      "height": "",
+      "bmi": "",
+      "bmiResult": "",
+      "gender": "",
+      "requireTrainer": "",
+      "package": "",
+      "enquiryDate": "",
+      "id": 3
+    },
+    {
+      "firstName": "re2222",
+      "lastName": "12",
+      "email": "irko2112",
+      "mobile": "qq2",
+      "weight": "65",
+      "height": "185",
+      "bmi": 19,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "enquiryDate": "2023-11-10T00:00:00.000Z",
+      "id": 4
+    }
+  ]
+}
